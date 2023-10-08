@@ -15,25 +15,19 @@ Job Match is a web application that helps job seekers find the right job for the
 
 To install and run Job Match locally, follow these steps:
 
-1. Clone this repository to your local machine
-
-```cmd
-$ git clone https://github.com/University-Of-Calgary-Software-Projects/job-match-web-app
-```
-
-2. Install the required packages and dependencies
+1. Install the required packages and dependencies
 
 ```cmd
 $ npm install
 ```
 
-3. Start the development server
+2. Start the development server
 
 ```cmd
 $ npm start
 ```
 
-4. Access the application at http://localhost:3000
+3. Access the application at http://localhost:3000
 
 ## Getting Started
 
